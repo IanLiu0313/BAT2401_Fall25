@@ -1,0 +1,34 @@
+﻿Class Date,Topics,Attendance
+Week_1,"Course Introduction, Probability and Statistics Applications and Examples",Submit Your Notes
+Week_1,Labor Day,N/A
+Week_2,"Statistics Applications and Examples, Data Types, Data Visualization and Meanings",Submit Your Notes
+Week_2,Descriptive Statistics: Measures of Association,Submit Your Notes
+Week_3,"Descriptive Statistics: Measures of Location, Distribution Shape, Outliers",Submit Your Notes
+Week_3,"Descriptive Statistics: Measures of Variability, Measures of Association Between Two Variables",Submit Your Notes
+Week_4,"Introduction to Probability: Counting Rules, Randomness, Addition Law, Conditional Probability",Submit Your Notes
+Week_4,"Introduction to Probability:  Random Variables, Expected Value",Submit Your Notes
+Week_5,Introduction to Probability: Bayes' Theorem,Submit Your Notes
+Week_5,Bayes' Theorem Lab,Submit Your Notes
+Week_6,,Exam 1 Review
+Week_6,,Exam 1
+Week_7,Discrete Probability: Variance,Submit Your Notes
+Week_7,Discrete Probability: Discrete Distributions,Submit Your Notes
+Week_8,Continuous Probability: Uniform and Normal Distributions,Submit Your Notes
+Week_8,"Continuous Probability: Normal Distributions, Covariance and Finance",Submit Your Notes
+Week_9,Continuous Probability: Normal Distributions Lab,Submit Your Notes
+Week_9,"Sampling and Sampling Distributions: Sampling Methods, Point Estimate",Submit Your Notes
+Week_10,"Interval Estimation: Population Mean, Sample Size and Proportion",Submit Your Notes
+Week_10,Interval Estimation: Confidence Intervals,Submit Your Notes
+Week_11,,Exam 2 Review 
+Week_11,,Exam 2
+Week_12,Hypothesis Test: Null and Alternative Hypotheses and Error Types,Submit Your Notes
+Week_12,Inference I - Means and Proportions,Submit Your Notes
+Week_13,Inference II - Variances,Submit Your Notes
+Week_13,Inference II Lab,Submit Your Notes
+Week_14,Happy Thanksgiving(No Class),N/A
+Week_14,Happy Thanksgiving(No Class),N/A
+Week_15,Simple Linear Regression Basics Residual Analysis,Submit Your Notes
+Week_15,Simple Linear Regression: Model Assumption,Submit Your Notes
+Week_16,,Exam 3 Review
+Week_16,,Reading Day
+Final Exam Week,,Final Exam
